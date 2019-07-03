@@ -1,6 +1,6 @@
 import numpy as np
 
-class simpleLinearRegression:
+class simpleLinearRegression(object):
     """the formula of linear regression is 
     y = Wx+b where m and b are the weight and bias respectively and x
     is the input variable. 
